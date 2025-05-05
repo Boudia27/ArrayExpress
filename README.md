@@ -1,0 +1,1 @@
+This R script automates the download of an SDRF file from ArrayExpress, extracts relevant metadata (e.g., cell line, stimulus, and time), cleans the data by removing duplicates, and presents it in a formatted table. It utilizes packages like httr, knitr, and miodin for bioinformatics data processing and visualization.
